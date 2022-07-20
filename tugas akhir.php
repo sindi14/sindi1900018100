@@ -307,7 +307,7 @@
 		    <img src="IG.png" width="45px">
 		    <a href="https://www.instagram.com/sindi_harym/">sindi_harym</a><br><br>
 		    <img src="GitHub.jpg" width="45px">
-		    <a href="https://github.com/sindi14/sindi14">sindi14</a>
+		    <a href="https://github.com/sindi14/sindi1900018100">sindi14</a>
 	       </div>
 		</div>
 </div>   
